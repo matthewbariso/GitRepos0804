@@ -6,5 +6,10 @@ public class Git0804 {
 		System.out.println("Hello Git");
 		
 		
+		
+		
+		for (int i = 0; i < 25; i++) {
+			System.out.println(i);
+		}
 	}
 }
